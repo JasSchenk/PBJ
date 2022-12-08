@@ -80,12 +80,13 @@ Assembly
 
 Video of Joy making a sandwich
 
-***********
-Consumption
-***********
+
+## Consumption
+
 
 What are the instructions for eating a peanut butter and jelly sandwich?
 
+,,,
 
 while SANDWICH
   take a bite
@@ -94,6 +95,7 @@ while SANDWICH
 
   if THIRSTY
     drink beverage
+,,,
 
 These pseudocode instructions could also be written in a particular language, like Python:
 
