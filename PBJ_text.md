@@ -1,18 +1,16 @@
-***********
-Peanut Butter and Jelly, an Overview
-***********
+# Peanut Butter and Jelly, an Overview
+
 
 A peanut butter and jelly sandwich is the quintessential, love it or hate it staple of American childhood lunches. It is a culture icon. But where did it come from, and what is it really?
-In 1901, Julia Davis Chandler wrote in The Boston Cooking School Magazine of Culinary Science and Domestic Economics: "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
-link: https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut
+In 1901, _Julia Davis Chandler_ wrote in [**The Boston Cooking School Magazine of Culinary Science and Domestic Economics**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut): "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
 
-***********
-Ingredients
-***********
+## Ingredients
 
-Sliced bread.
-Attribution: "Sliced fresh bread" available at https://foto.wuestenigel.com/sliced-fresh-bread/ by Marco Verch
-licensed under CC by 2.0, https://creativecommons.org/licenses/by/2.0/
+
+![Sliced bread](media/bread.jpg)
+
+Attribution: ["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch
+licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 Peanut butter.
 Attribution: "Peanut Butter" available at https://www.flickr.com/photos/niaid/25419964715 by NIAID
@@ -23,9 +21,8 @@ Attribution: "Raspberry jam - still hot" https://www.flickr.com/photos/conall/24
 licensed under CC by 2.0 https://creativecommons.org/licenses/by/2.0/
 
 
-***********
-Breads
-***********
+
+### Breads
 
 My favorite types of bread are itemized this un-ordered list:
 
@@ -46,9 +43,8 @@ Less fluffy breads that can still be used for sandwiches, enumerated from my mos
 2. tortillas
 3. matzah
 
-***********
-Peanut and Other Butters
-***********
+
+### Peanut and Other Butters
 
 Peanut butter is not the only type of "butter" you can use:
 
@@ -61,7 +57,7 @@ Hazelnut and Chocolate Butter:  Nutella can be used instead of or in addition to
 Butter: Toast with butter and jam is a warm, deconstructed PBJ sandwich with dairy substituted for peanuts.
 
 ***********
-Jelly and Jelly Alternatives
+### Jelly and Jelly Alternatives
 ***********
 Popularity of various jellies and jelly alternatives:
 
